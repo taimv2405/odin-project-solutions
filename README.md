@@ -8,3 +8,4 @@ My solutions for [The Odin Project](https://www.theodinproject.com/) curriculum.
 | :--- | :--- | :---: | :---: |
 | [Odin Recipes](https://www.theodinproject.com/lessons/foundations-recipes) | HTML Foundations, CSS Foundations | [Live Demo](https://taimv2405.github.io/odin-project-solutions/foundations/odin-recipes/) | [Source](./foundations/odin-recipes/) |
 | [Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page) | Flexbox | [Live Demo](https://taimv2405.github.io/odin-project-solutions/foundations/landing-page/) | [Source](./foundations/landing-page/) |
+| [Rock Paper Scissors](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors) | JavaScript Basics | [Live Demo](https://taimv2405.github.io/odin-project-solutions/foundations/rock-paper-scissors/) | [Source](./foundations/rock-paper-scissors/) |
