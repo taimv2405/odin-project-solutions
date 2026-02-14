@@ -1,4 +1,4 @@
-# Rock Paper Scissors
+# Etch-a-Sketch
 
 **Live Demo:** [View Project Live](https://taimv2405.github.io/odin-project-solutions/foundations/etch-a-sketch/)
 
